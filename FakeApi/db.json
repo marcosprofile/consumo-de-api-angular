@@ -1,0 +1,34 @@
+{
+  "carros": [
+    {
+      "id": 3,
+      "marca": "Fiat",
+      "nome": "Uno"
+    },
+    {
+      "id": 4,
+      "marca": "Audi",
+      "nome": "R8"
+    },
+    {
+      "id": 5,
+      "marca": "Lamborghini",
+      "nome": "Aventador"
+    },
+    {
+      "id": 6,
+      "marca": "Lamborghini",
+      "nome": "Urus"
+    },
+    {
+      "id": 7,
+      "marca": "Porsche",
+      "nome": "porsche 911 gt3"
+    },
+    {
+      "id": 8,
+      "marca": "Lamborghini",
+      "nome": "Huracan"
+    }
+  ]
+}
